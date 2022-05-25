@@ -22,6 +22,9 @@ Here are some ideas!
 
 ---
 
+> https://www.frontendpractice.com/
+![Screenshot](https://i.imgur.com/u9DqF77.png)
+
 Have more ideas for growth and exploration?
 
 Feel free to help us out and submit a Pull Request!
